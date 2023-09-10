@@ -1,0 +1,112 @@
+---
+object: card
+id: 24626988-81df-44c9-9a8e-ecb9f82c383b
+oracle_id: ea152809-85a2-4fde-8251-3b1f267e4443
+multiverse_ids:
+- 365
+tcgplayer_id: 8825
+cardmarket_id: 4672
+name: Lord of the Pit
+lang: en
+released_at: '1993-10-04'
+uri: https://api.scryfall.com/cards/24626988-81df-44c9-9a8e-ecb9f82c383b
+scryfall_uri: https://scryfall.com/card/leb/115/lord-of-the-pit?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/4/24626988-81df-44c9-9a8e-ecb9f82c383b.jpg?1559591757
+  normal: https://cards.scryfall.io/normal/front/2/4/24626988-81df-44c9-9a8e-ecb9f82c383b.jpg?1559591757
+  large: https://cards.scryfall.io/large/front/2/4/24626988-81df-44c9-9a8e-ecb9f82c383b.jpg?1559591757
+  png: https://cards.scryfall.io/png/front/2/4/24626988-81df-44c9-9a8e-ecb9f82c383b.png?1559591757
+  art_crop: https://cards.scryfall.io/art_crop/front/2/4/24626988-81df-44c9-9a8e-ecb9f82c383b.jpg?1559591757
+  border_crop: https://cards.scryfall.io/border_crop/front/2/4/24626988-81df-44c9-9a8e-ecb9f82c383b.jpg?1559591757
+mana_cost: "{4}{B}{B}{B}"
+cmc: 7.0
+type_line: Creature — Demon
+oracle_text: |-
+  Flying, trample
+  At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.
+power: '7'
+toughness: '7'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5307bd88-637c-4a5c-9801-a0d887715302
+set: leb
+set_name: Limited Edition Beta
+set_type: core
+set_uri: https://api.scryfall.com/sets/5307bd88-637c-4a5c-9801-a0d887715302
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aleb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/leb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/24626988-81df-44c9-9a8e-ecb9f82c383b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aea152809-85a2-4fde-8251-3b1f267e4443&unique=prints
+collector_number: '115'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: 425c5788-b0ed-45fe-aca5-00158e1f4d17
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 9926
+penny_rank: 13977
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '369.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=365
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Lord+of+the+Pit&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Lord+of+the+Pit&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Lord+of+the+Pit
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/8825?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lord+of+the+Pit&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lord+of+the+Pit&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

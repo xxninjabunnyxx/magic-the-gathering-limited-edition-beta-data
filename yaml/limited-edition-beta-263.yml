@@ -1,0 +1,105 @@
+---
+object: card
+id: 133204e4-fef8-4851-aa50-c96ffa35b802
+oracle_id: 0677f49e-f8bf-4349-af52-2ccde9287c2e
+multiverse_ids:
+- 328
+tcgplayer_id: 8842
+cardmarket_id: 5154
+name: Mox Jet
+lang: en
+released_at: '1993-10-04'
+uri: https://api.scryfall.com/cards/133204e4-fef8-4851-aa50-c96ffa35b802
+scryfall_uri: https://scryfall.com/card/leb/263/mox-jet?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/3/133204e4-fef8-4851-aa50-c96ffa35b802.jpg?1559591884
+  normal: https://cards.scryfall.io/normal/front/1/3/133204e4-fef8-4851-aa50-c96ffa35b802.jpg?1559591884
+  large: https://cards.scryfall.io/large/front/1/3/133204e4-fef8-4851-aa50-c96ffa35b802.jpg?1559591884
+  png: https://cards.scryfall.io/png/front/1/3/133204e4-fef8-4851-aa50-c96ffa35b802.png?1559591884
+  art_crop: https://cards.scryfall.io/art_crop/front/1/3/133204e4-fef8-4851-aa50-c96ffa35b802.jpg?1559591884
+  border_crop: https://cards.scryfall.io/border_crop/front/1/3/133204e4-fef8-4851-aa50-c96ffa35b802.jpg?1559591884
+mana_cost: "{0}"
+cmc: 0.0
+type_line: Artifact
+oracle_text: "{T}: Add {B}."
+colors: []
+color_identity:
+- B
+keywords: []
+produced_mana:
+- B
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: not_legal
+  vintage: restricted
+  penny: not_legal
+  commander: banned
+  oathbreaker: banned
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: banned
+  oldschool: restricted
+  premodern: not_legal
+  predh: banned
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5307bd88-637c-4a5c-9801-a0d887715302
+set: leb
+set_name: Limited Edition Beta
+set_type: core
+set_uri: https://api.scryfall.com/sets/5307bd88-637c-4a5c-9801-a0d887715302
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aleb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/leb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/133204e4-fef8-4851-aa50-c96ffa35b802/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0677f49e-f8bf-4349-af52-2ccde9287c2e&unique=prints
+collector_number: '263'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dan Frazier
+artist_ids:
+- '059bba56-5feb-42e4-8c2e-e2f1e6ba11f9'
+illustration_id: ae8c0bef-4639-4a12-8487-670919a1074b
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '4850.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=328
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mox+Jet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mox+Jet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mox+Jet
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/8842?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mox+Jet&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mox+Jet&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

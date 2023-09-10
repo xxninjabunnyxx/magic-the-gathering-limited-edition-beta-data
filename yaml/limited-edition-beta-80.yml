@@ -1,0 +1,107 @@
+---
+object: card
+id: 3f599b73-1d55-4acc-8931-f5ab39d1d4e9
+oracle_id: '04477339-7ed5-4770-9e5c-6e481ffcc858'
+multiverse_ids:
+- 422
+tcgplayer_id: 8910
+cardmarket_id: 4786
+name: Spell Blast
+lang: en
+released_at: '1993-10-04'
+uri: https://api.scryfall.com/cards/3f599b73-1d55-4acc-8931-f5ab39d1d4e9
+scryfall_uri: https://scryfall.com/card/leb/80/spell-blast?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/f/3f599b73-1d55-4acc-8931-f5ab39d1d4e9.jpg?1559591579
+  normal: https://cards.scryfall.io/normal/front/3/f/3f599b73-1d55-4acc-8931-f5ab39d1d4e9.jpg?1559591579
+  large: https://cards.scryfall.io/large/front/3/f/3f599b73-1d55-4acc-8931-f5ab39d1d4e9.jpg?1559591579
+  png: https://cards.scryfall.io/png/front/3/f/3f599b73-1d55-4acc-8931-f5ab39d1d4e9.png?1559591579
+  art_crop: https://cards.scryfall.io/art_crop/front/3/f/3f599b73-1d55-4acc-8931-f5ab39d1d4e9.jpg?1559591579
+  border_crop: https://cards.scryfall.io/border_crop/front/3/f/3f599b73-1d55-4acc-8931-f5ab39d1d4e9.jpg?1559591579
+mana_cost: "{X}{U}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Counter target spell with mana value X. (For example, if that spell's
+  mana cost is {3}{U}{U}, X is 5.)
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5307bd88-637c-4a5c-9801-a0d887715302
+set: leb
+set_name: Limited Edition Beta
+set_type: core
+set_uri: https://api.scryfall.com/sets/5307bd88-637c-4a5c-9801-a0d887715302
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aleb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/leb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3f599b73-1d55-4acc-8931-f5ab39d1d4e9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A04477339-7ed5-4770-9e5c-6e481ffcc858&unique=prints
+collector_number: '80'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Brian Snõddy
+artist_ids:
+- 770b4e16-de76-49ed-949f-84e6d2e06d25
+illustration_id: a68db794-6477-4f91-b241-96e66cc7b931
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15669
+penny_rank: 7044
+prices:
+  usd: '12.34'
+  usd_foil: 
+  usd_etched: 
+  eur: '10.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=422
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Spell+Blast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Spell+Blast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Spell+Blast
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/8910?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spell+Blast&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Spell+Blast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

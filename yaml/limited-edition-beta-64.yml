@@ -1,0 +1,107 @@
+---
+object: card
+id: 0aa81390-4e0b-484b-a5be-a9449cd41860
+oracle_id: cba229fa-9035-405b-b091-3798898a37ee
+multiverse_ids:
+- 406
+tcgplayer_id: 8827
+cardmarket_id: 4754
+name: Magical Hack
+lang: en
+released_at: '1993-10-04'
+uri: https://api.scryfall.com/cards/0aa81390-4e0b-484b-a5be-a9449cd41860
+scryfall_uri: https://scryfall.com/card/leb/64/magical-hack?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/a/0aa81390-4e0b-484b-a5be-a9449cd41860.jpg?1559591883
+  normal: https://cards.scryfall.io/normal/front/0/a/0aa81390-4e0b-484b-a5be-a9449cd41860.jpg?1559591883
+  large: https://cards.scryfall.io/large/front/0/a/0aa81390-4e0b-484b-a5be-a9449cd41860.jpg?1559591883
+  png: https://cards.scryfall.io/png/front/0/a/0aa81390-4e0b-484b-a5be-a9449cd41860.png?1559591883
+  art_crop: https://cards.scryfall.io/art_crop/front/0/a/0aa81390-4e0b-484b-a5be-a9449cd41860.jpg?1559591883
+  border_crop: https://cards.scryfall.io/border_crop/front/0/a/0aa81390-4e0b-484b-a5be-a9449cd41860.jpg?1559591883
+mana_cost: "{U}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Change the text of target spell or permanent by replacing all instances
+  of one basic land type with another. (For example, you may change "swampwalk" to
+  "plainswalk." This effect lasts indefinitely.)
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5307bd88-637c-4a5c-9801-a0d887715302
+set: leb
+set_name: Limited Edition Beta
+set_type: core
+set_uri: https://api.scryfall.com/sets/5307bd88-637c-4a5c-9801-a0d887715302
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aleb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/leb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0aa81390-4e0b-484b-a5be-a9449cd41860/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acba229fa-9035-405b-b091-3798898a37ee&unique=prints
+collector_number: '64'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Julie Baroh
+artist_ids:
+- bba720a4-46b3-493b-8653-8980e6a8c252
+illustration_id: ac51706f-d485-4d91-822f-bdf9eca67a48
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 16624
+prices:
+  usd: '96.87'
+  usd_foil: 
+  usd_etched: 
+  eur: '79.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=406
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Magical+Hack&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Magical+Hack&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Magical+Hack
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/8827?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Magical+Hack&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Magical+Hack&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

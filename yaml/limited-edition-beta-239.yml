@@ -1,0 +1,105 @@
+---
+object: card
+id: 93842064-a0a8-4e4d-9c8a-e8a86448d225
+oracle_id: 16d1023b-2162-4010-8bf4-218dbe7c99a0
+multiverse_ids:
+- 304
+tcgplayer_id: 8716
+cardmarket_id: 5104
+name: Copper Tablet
+lang: en
+released_at: '1993-10-04'
+uri: https://api.scryfall.com/cards/93842064-a0a8-4e4d-9c8a-e8a86448d225
+scryfall_uri: https://scryfall.com/card/leb/239/copper-tablet?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/3/93842064-a0a8-4e4d-9c8a-e8a86448d225.jpg?1559591838
+  normal: https://cards.scryfall.io/normal/front/9/3/93842064-a0a8-4e4d-9c8a-e8a86448d225.jpg?1559591838
+  large: https://cards.scryfall.io/large/front/9/3/93842064-a0a8-4e4d-9c8a-e8a86448d225.jpg?1559591838
+  png: https://cards.scryfall.io/png/front/9/3/93842064-a0a8-4e4d-9c8a-e8a86448d225.png?1559591838
+  art_crop: https://cards.scryfall.io/art_crop/front/9/3/93842064-a0a8-4e4d-9c8a-e8a86448d225.jpg?1559591838
+  border_crop: https://cards.scryfall.io/border_crop/front/9/3/93842064-a0a8-4e4d-9c8a-e8a86448d225.jpg?1559591838
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: At the beginning of each player's upkeep, Copper Tablet deals 1 damage
+  to that player.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5307bd88-637c-4a5c-9801-a0d887715302
+set: leb
+set_name: Limited Edition Beta
+set_type: core
+set_uri: https://api.scryfall.com/sets/5307bd88-637c-4a5c-9801-a0d887715302
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aleb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/leb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/93842064-a0a8-4e4d-9c8a-e8a86448d225/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A16d1023b-2162-4010-8bf4-218dbe7c99a0&unique=prints
+collector_number: '239'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Amy Weber
+artist_ids:
+- c1160787-e72e-4f89-b361-c6864f7a4e3a
+illustration_id: ec38b390-d660-4990-afcb-6cab9327dcea
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15506
+penny_rank: 6853
+prices:
+  usd: '100.25'
+  usd_foil: 
+  usd_etched: 
+  eur: '52.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=304
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Copper+Tablet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Copper+Tablet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Copper+Tablet
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/8716?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Copper+Tablet&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Copper+Tablet&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

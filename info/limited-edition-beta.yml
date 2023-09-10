@@ -1,0 +1,18 @@
+---
+object: set
+id: 5307bd88-637c-4a5c-9801-a0d887715302
+code: leb
+tcgplayer_id: 17
+name: Limited Edition Beta
+uri: https://api.scryfall.com/sets/5307bd88-637c-4a5c-9801-a0d887715302
+scryfall_uri: https://scryfall.com/sets/leb
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aleb&unique=prints
+released_at: '1993-10-04'
+set_type: core
+card_count: 302
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: lea
+block: Core Set
+icon_svg_uri: https://svgs.scryfall.io/sets/leb.svg?1693800000

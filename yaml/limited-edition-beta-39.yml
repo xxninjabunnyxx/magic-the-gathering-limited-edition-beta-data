@@ -1,0 +1,111 @@
+---
+object: card
+id: 67d1945d-d228-4dc3-a593-859408b2016b
+oracle_id: 60ba93eb-39e6-4af2-9c66-cd38f72daff2
+multiverse_ids:
+- 565
+tcgplayer_id: 8891
+cardmarket_id: 5072
+name: Savannah Lions
+lang: en
+released_at: '1993-10-04'
+uri: https://api.scryfall.com/cards/67d1945d-d228-4dc3-a593-859408b2016b
+scryfall_uri: https://scryfall.com/card/leb/39/savannah-lions?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/7/67d1945d-d228-4dc3-a593-859408b2016b.jpg?1559591503
+  normal: https://cards.scryfall.io/normal/front/6/7/67d1945d-d228-4dc3-a593-859408b2016b.jpg?1559591503
+  large: https://cards.scryfall.io/large/front/6/7/67d1945d-d228-4dc3-a593-859408b2016b.jpg?1559591503
+  png: https://cards.scryfall.io/png/front/6/7/67d1945d-d228-4dc3-a593-859408b2016b.png?1559591503
+  art_crop: https://cards.scryfall.io/art_crop/front/6/7/67d1945d-d228-4dc3-a593-859408b2016b.jpg?1559591503
+  border_crop: https://cards.scryfall.io/border_crop/front/6/7/67d1945d-d228-4dc3-a593-859408b2016b.jpg?1559591503
+mana_cost: "{W}"
+cmc: 1.0
+type_line: Creature — Cat
+oracle_text: ''
+power: '2'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5307bd88-637c-4a5c-9801-a0d887715302
+set: leb
+set_name: Limited Edition Beta
+set_type: core
+set_uri: https://api.scryfall.com/sets/5307bd88-637c-4a5c-9801-a0d887715302
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aleb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/leb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/67d1945d-d228-4dc3-a593-859408b2016b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A60ba93eb-39e6-4af2-9c66-cd38f72daff2&unique=prints
+collector_number: '39'
+digital: false
+rarity: rare
+flavor_text: The traditional kings of the jungle command a healthy respect in other
+  climates as well. Relying mainly on their stealth and speed, Savannah Lions can
+  take a victim by surprise, even in the endless flat plains of their homeland.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daniel Gelon
+artist_ids:
+- 63ac31a8-dd1a-4679-9f82-ece89429a084
+illustration_id: afc7b44a-02b0-4684-a3ed-89c2f2ec507b
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10816
+penny_rank: 3068
+prices:
+  usd: '499.99'
+  usd_foil: 
+  usd_etched: 
+  eur: '962.67'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=565
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Savannah+Lions&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Savannah+Lions&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Savannah+Lions
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/8891?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Savannah+Lions&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Savannah+Lions&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
